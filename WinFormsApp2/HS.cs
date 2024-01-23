@@ -8,5 +8,6 @@ namespace WinFormsApp2
 {
     internal class HS
     {
+        // Hieu dep trai nek
     }
 }
